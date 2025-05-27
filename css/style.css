@@ -1,0 +1,50 @@
+body {
+  background-color: #161616;
+  color: white;
+}
+body .container_style {
+  width: 75vw;
+  height: auto;
+}
+body .pink {
+  background-color: #FF7FDE;
+}
+body .color_ {
+  background-color: #262624;
+}
+body .color_bg {
+  background-color: #161616;
+}
+body nav {
+  background-color: #262624;
+}
+body .spe1 {
+  border-bottom: 2px solid purple;
+}
+body .spe2 {
+  border-bottom: 2px solid orange;
+}
+body .spe3 {
+  border-bottom: 2px solid green;
+}
+body .spe4 {
+  border-bottom: 2px solid red;
+}
+body .spe5 {
+  border-bottom: 2px solid purple;
+}
+body .spe6 {
+  border-bottom: 2px solid red;
+}
+
+@media only screen and (max-width: 425px) {
+  body .container_style {
+    width: 100vw;
+    height: auto;
+  }
+  body .ul-style {
+    width: 100vw;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

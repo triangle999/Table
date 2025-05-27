@@ -1,0 +1,51 @@
+body {
+    background-color: #161616;
+    color: white;
+
+    .container_style {
+        width: 75vw; 
+        height: auto;
+    }
+    .pink {
+        background-color: #FF7FDE;
+    }
+    .color_ {
+        background-color: #262624;
+        
+    }
+    .color_bg {
+        background-color: #161616;
+    }
+    nav {
+        background-color: #262624;
+    }
+    .spe1 {
+        border-bottom: 2px solid purple;
+    }
+    .spe2 {
+        border-bottom: 2px solid orange;
+    }
+    .spe3 {
+        border-bottom: 2px solid green;
+    }
+    .spe4 {
+        border-bottom: 2px solid red;
+    }
+    .spe5 {
+        border-bottom: 2px solid purple;
+    }
+    .spe6 {
+        border-bottom: 2px solid red;
+    }
+}
+@media only screen and (max-width: 425px) {
+  body {
+    .container_style {
+        width: 100vw;
+        height: auto;
+    }
+    .ul-style {
+        width: 100vw;
+    }
+  }
+}
